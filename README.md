@@ -3,7 +3,11 @@ Olá, me chamo Grazy! ₊ ⊹
 
   ⊹ ࣪ ˖ Estudante de Análise e Desenvolvimento de Sistemas
   
-  ⊹ ࣪ ˖ Interessada em desenvolvimento de jogos
+  ⊹ ࣪ ˖ Interessada em Desenvolvimento de jogos e UX/UI design
+     
+
+
+
 
 
 ![GrazyAmoorim's Stats](https://github-readme-stats.vercel.app/api?username=GrazyAmoorim&theme=jolly&show_icons=true&hide_border=true&count_private=true)
