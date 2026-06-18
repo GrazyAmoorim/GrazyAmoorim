@@ -1,6 +1,6 @@
-# Olá! Me chamo Grazy✨
+# Oi! Me chamo Grazy✨
 
-Desenvolvedora Front-end em formação, apaixonada por tecnologia e movida a criatividade
+Desenvolvedora Front-end em formação, movida a criatividade
 
 
 ### 🌟  Sobre mim
@@ -22,4 +22,4 @@ Desenvolvedora Front-end em formação, apaixonada por tecnologia e movida a cri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grazielly-amorim-0446a03a7?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grazyamorim09@gmail.com) 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
